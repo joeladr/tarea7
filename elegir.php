@@ -2,7 +2,7 @@
 <html>
 	<head>
     <meta charset="utf-8">
-		<title>El semafaro</title>
+		<title>Mi semafaro</title>
 		<script
   src="https://code.jquery.com/jquery-3.1.1.js"
   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
@@ -23,7 +23,7 @@
     <div class="text-center">
       <a href="index.php?calle=A" class="btn btn-primary">Calle A</a>
       <a href="index.php?calle=B" class="btn btn-info">Calle B</a>
-			<a href="index.php?admin=adm" class="btn btn-info">Admin</a>
+			<a href="config.php?" class="btn btn-info">Admin</a>
     </div>
 	</body>
 </html>
